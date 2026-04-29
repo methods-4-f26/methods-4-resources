@@ -31,8 +31,8 @@ We will be using a so-called 'flipped classroom' in this course. This means that
 | 7           | 15           | Model comparison, interactions (chapters 7, 8)                          |
 | 8           | 16           | Markov chain Monte Carlo, maximum entropy (chapters 9, 10)              |
 | 9           | 17           | Generalized linear models (chapter 11)                                  |
-| 10          | 18           | Mixture models, ordered categorical outcomes/predictors (chapter 12)    |
-| 11          | 19           | Multilevel models (chapter 13)                                          |
+| 10          | 18           | Models of counts, cognitive science example (chapter 11)                |
+| 11          | 19           | Ordered categorical outcomes, multilevel models (chapters 12, 13)       |
 
 ## Exam
 
